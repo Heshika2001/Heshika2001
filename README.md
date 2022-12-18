@@ -53,3 +53,8 @@ Successfuly completed AAT
   Gardaning                                                                                          
  
 
+link for the resume : 
+
+# Contact Details
+
+ Email : heshikanaranwala2001@gmail.com                                  
