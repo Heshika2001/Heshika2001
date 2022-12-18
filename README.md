@@ -48,4 +48,8 @@ Successfuly completed AAT
  playing piano                                                                                               
  
  
+# HOBBIES 
+  Reading books                                                                                     
+  Gardaning                                                                                          
+ 
 
