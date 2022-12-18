@@ -8,26 +8,26 @@ My name is  Heshika Naranwala. Hard working college student with the motivated A
  
  # Secoundary Education
  
-Did O/L in 2017.                                 
+Did O/L in 2017                          
 
-O/L Results.                             
+O/L Results                               
   English-A                                
   Buddism-A                                
   History-A                                
   Sinhala-A                                          
-  Science-A
-  Maths-A
-  Health-A
-  Civics-A
-  Arts-A
+  Science-A 
+  Maths-A 
+  Health-A 
+  Civics-A 
+  Arts-A 
   
-Did A/L in 2020.
+Did A/L in 2020
 
-A/L Results.
-  Biology-S
-  Chemistry-S 
-  Physics-S
-  G.English-B   
+A/L Results 
+  Biology-S 
+  Chemistry-S  
+  Physics-S 
+  G.English-B    
    
 
 
