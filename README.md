@@ -4,7 +4,6 @@ My name is  Heshika Naranwala. Hard working college student with the motivated A
 
 📫 How to reach me:heshikanarnwala2001@gmail.com
 
- Hobes- Collecting newly Information
  
  # EDUCATIONAL QULIFICATION
  
