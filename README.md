@@ -53,7 +53,7 @@ Successfuly completed AAT
   Gardaning                                                                                          
  
 
-link for the resume :   C:\Users\asus\Downloads\HS22163318 Naranwala NH (3).pdf
+link for the resume :   https://drive.google.com/file/d/14I33zeUa2DQ1ZT-u7SNElQWNVdDSoTNn/view?usp=share_link
 
 # Contact Details
 
