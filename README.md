@@ -31,6 +31,7 @@ A/L Results
    
 # Higher Education
 
-Undergrduate student in SLIIT university
-Diploma in IT with a distiction pass in ESOFT METRO CAMPUS
-Diploma in ENGLISH With a distiction pass in BWEA
+Undergrduate student in SLIIT university                                                                                  
+Diploma in IT with a distiction pass in ESOFT METRO CAMPUS                                                                        
+Diploma in ENGLISH With a distiction pass in BWEA                                                                          
+ 
