@@ -11,30 +11,26 @@ My name is  Heshika Naranwala. Hard working college student with the motivated A
 Did O/L in 2017.                                 
 
 O/L Results                               
-  English-A                                
-  Buddism-A                                
-  History-A                                
-  Sinhala-A                                          
-  Science-A
-  Maths-A
-  Health-A
-  Civics-A
-  Arts-A
-     
-Did A/L in 2020.
-                                            
-A/L Results                                                               
-  Biology-S                                                          
-  Chemistry-S                                                          
-  Physics-S                                               
-  G.English-B   
-  
+  English-A                                                          
+  Buddism-A                                                              
+  History-A                                                               
+  Sinhala-A                                                                   
+  Science-A                                                           
+  Maths-A                            
+  Health-A                                               
+  Civics-A                                        
+  Arts-A                                 
+                       
+Did A/L in 2020.                           
+                                   
+A/L Results                               
+  Biology-S                         
+  Chemistry-S                           
+  Physics-S                              
+  G.English-B                                
+   
 # Higher Education
 
- Undergraduate  in SLIIT university                                                                                  
- Diploma in IT With a Distiction Pass in ESOFT metro Campus                               
- Diploma in English with a Distiction pass In BWEA                                                                        
-
-   
-
-
+Undergrduate student in SLIIT university
+Diploma in IT with a distiction pass in ESOFT METRO CAMPUS
+Diploma in ENGLISH With a distiction pass in BWEA
