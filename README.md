@@ -12,8 +12,8 @@ My name is  Heshika Naranwala. Hard working college student with the motivated A
  
 Did O/L in 2017.                                 
 
-O/L Results                               
-  English-A                                                          
+O/L Results                                                         A/L Results                                                                           
+  English-A                                                           Biology-S                                                          
   Buddism-A                                                              
   History-A                                                               
   Sinhala-A                                                                   
@@ -25,8 +25,8 @@ O/L Results
                        
 Did A/L in 2020.                           
                                    
-A/L Results                               
-  Biology-S                         
+                               
+                         
   Chemistry-S                           
   Physics-S                              
   G.English-B                                
