@@ -17,7 +17,7 @@ O/L Results
   Sinhala-A                                          
   Science-A
   Maths-A
-  Helth-A
+  Health-A
   Civics-A
   Arts-A
   
