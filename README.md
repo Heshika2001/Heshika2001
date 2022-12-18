@@ -6,6 +6,8 @@ My name is  Heshika Naranwala. Hard working college student with the motivated A
 
  Hobes- Collecting newly Information
  
+ # EDUCATIONAL QULIFICATION
+ 
  # Secoundary Education
  
 Did O/L in 2017.                                 
@@ -35,3 +37,15 @@ Undergrduate student in SLIIT university
 Diploma in IT with a distiction pass in ESOFT METRO CAMPUS                                                                        
 Diploma in ENGLISH With a distiction pass in BWEA                                                                          
  
+ 
+# PROFESSIONAL QULIFICATION
+
+Successfuly completed AAT                                                               
+
+
+# OTHER SKILLS
+ Playing Tennis                                                                                                                                                    
+ playing piano                                                                                               
+ 
+ 
+
